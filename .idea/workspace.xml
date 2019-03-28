@@ -34,6 +34,23 @@
               <item name="io_MultiServ" type="b2602c69:ProjectViewProjectNode" />
               <item name="io_MultiServ" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="io_MultiServ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="io_MultiServ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="io_MultiServ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="io_MultiServ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="io_MultiServ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="io_MultiServ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
